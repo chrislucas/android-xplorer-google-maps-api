@@ -17,3 +17,6 @@ https://developers.google.com/maps/documentation/android-api/?hl=pt-br
 MapFragment
 https://developers.google.com/maps/documentation/android-api/map?hl=pt-br
 https://developers.google.com/android/reference/com/google/android/gms/maps/MapFragment
+
+
+https://developers.google.com/maps/documentation/android-api/views?hl=pt-br#alterar_nivel_de_zoom_e_definir_zoom_minimomaximo
