@@ -1,0 +1,3 @@
+http://androiddhina.blogspot.com/2017/11/how-to-use-google-map-in-fragment.html
+https://stackoverflow.com/questions/26174527/android-mapview-in-fragment
+https://gist.github.com/joshdholtz/4522551

@@ -1,0 +1,19 @@
+Observacao interessante:
+
+Nao funciona tentar carregar um mapa dentro de um fragment atraves da tag <fragment> (MapFragment)
+temos que usar o com.google.android.gms.maps.MapView :(
+
+
+Primeiros passos
+https://developers.google.com/maps/documentation/android-api/start?hl=pt-br
+https://developers.google.com/maps/documentation/android-sdk/start
+
+https://developers.google.com/maps/documentation/android-sdk/map-with-marker
+
+API
+https://developers.google.com/maps/documentation/android-api/?hl=pt-br
+
+
+MapFragment
+https://developers.google.com/maps/documentation/android-api/map?hl=pt-br
+https://developers.google.com/android/reference/com/google/android/gms/maps/MapFragment
